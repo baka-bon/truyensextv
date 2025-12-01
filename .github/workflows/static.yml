@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: './truyensextv55.com/'
+          path: './truyensextv99.net/'
           retention-days: 1
       - name: Deploy to GitHub Pages
         id: deployment
