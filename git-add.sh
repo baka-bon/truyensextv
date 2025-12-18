@@ -1,7 +1,9 @@
-git add truyensextv99.net/truyen-sex-dai-tap
-git add truyensextv99.net/truyen-sex-ngan
-git add truyensextv99.net/page
-git add truyensextv99.net/tag
-git add truyensextv99.net/cu
-git add truyensextv99.net/truyen-nonsex
-git add truyensextv99.net/top-*
+git add truyensextv68.com/truyen-sex-dai-tap
+git add truyensextv68.com/truyen-sex-ngan
+git add truyensextv68.com/page
+git add truyensextv68.com/tag
+git add truyensextv68.com/cu
+git add truyensextv68.com/truyen-nonsex
+git add truyensextv68.com/top-*
+git add truyensextv68.com/ket-qua-event-truyen-ngan-2020
+git add truyensextv68.com/event-truyen-ngan-2020
