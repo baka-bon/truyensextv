@@ -9,3 +9,5 @@ git add truyensextv68.com/truyen-nonsex
 git add truyensextv68.com/top-*
 git add truyensextv68.com/ket-qua-event-truyen-ngan-2020
 git add truyensextv68.com/event-truyen-ngan-2020
+
+git add truyensextv68.com/index.html
