@@ -11,3 +11,5 @@ git add truyensextv68.com/ket-qua-event-truyen-ngan-2020
 git add truyensextv68.com/event-truyen-ngan-2020
 
 git add truyensextv68.com/index.html
+
+cd truyensextv68.com && git ls-files --others --exclude-standard | awk -F'/' '{print $1}' | sort -u | xargs -I {} git add {}
