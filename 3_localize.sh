@@ -55,7 +55,7 @@ for f in "$tmpdir"/depth_*.list; do
 
   echo "Processing depth=$depth (${file_count} file(s), ../ x $((depth-2)))"
 
-  xargs -n 100 dos2unix < "$f"
+  # xargs -n 100 dos2unix < "$f"
   xargs -n 100 \
     perl -0777 -i -pe \
     "s#href=\"https://truyensextv68\.com/((?!amp\.html)[^\"]+/)?\"#href=\"${up}\$1index.html\"#mg" \
